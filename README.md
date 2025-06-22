@@ -1,48 +1,33 @@
-<h1 align="center">Olá! 👋 Me chamo Kevin Allysson | Hi! 👋 I'm Kevin Allysson</h1>
+<h1 align="center">Hi! 👋 I'm Kevin Allysson</h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack & Estudante de Ciência da Computação <br/>
   💻 Full Stack Developer & Computer Science Student <br/>
-  📍 Rio Grande do Sul, Brasil | Brazil
+  📍 Rio Grande do Sul, Brazil
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim | About me
+### 🧑‍💻 About Me
 
-Sou um desenvolvedor autodidata apaixonado por tecnologia, com 30 anos de idade. Iniciei minha carreira buscando conhecimento de forma independente, sempre motivado pela curiosidade e pelo desafio de criar soluções eficientes.  
-Atualmente, estou cursando **Ciência da Computação** na **UNINTER**, consolidando a base teórica que complementa minha experiência prática.
+I'm a passionate self-taught developer from Brazil, 30 years old. I began my journey by independently seeking knowledge, driven by curiosity and the desire to build efficient and scalable solutions.
 
-Tenho vivência tanto liderando quanto participando ativamente de equipes em projetos de diferentes níveis de complexidade, desde **landing pages otimizadas** até **sistemas completos e seguros** com foco em performance e escalabilidade.
+Currently, I'm studying **Computer Science** at **UNINTER**, combining theoretical foundations with solid practical experience.
 
----
-
-I'm a passionate self-taught developer from Brazil, 30 years old. I started my journey by independently seeking knowledge, driven by curiosity and the desire to build efficient solutions.  
-Currently, I'm studying **Computer Science** at **UNINTER**, combining theoretical knowledge with practical experience.
-
-I've worked both as a team leader and collaborator in projects of various complexity levels — from **optimized landing pages** to **complete and secure systems** focused on performance and scalability.
+I've worked both as a team leader and as a team member in projects ranging from **optimized one-page templates** to **complex and secure systems** focused on performance and scalability.
 
 ---
 
-### 🚀 Tecnologias e Habilidades | Technologies & Skills
+### 🚀 Technologies & Skills
 
-- Criação de interfaces responsivas com animações em **CSS/SCSS**  
-- Desenvolvimento de sistemas completos com **autenticação segura e criptografia**  
-- Integração e criação de **APIs RESTful**  
-- Conhecimento em **boas práticas de segurança**, versionamento e componentização  
-- Experiência com arquiteturas modernas como **SPA** e **SSR**
-
----
-
-- Responsive UI creation with **CSS/SCSS animations**  
-- Full-feature system development with **secure authentication and encryption**  
-- Integration and development of **RESTful APIs**  
-- Knowledge of **security best practices**, version control and component-based design  
-- Experience with modern architectures like **SPA** and **SSR**
+- Responsive UI development with modern **CSS/SCSS animations**
+- Full system development with **secure authentication and encryption**
+- Integration and creation of **RESTful APIs**
+- Knowledge of **security best practices**, version control, and component-based design
+- Experience with modern architectures such as **SPA** and **SSR**
 
 ---
 
-### 🛠️ Linguagens e Ferramentas | Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" alt="Vue.js"/>
@@ -60,7 +45,7 @@ I've worked both as a team leader and collaborator in projects of various comple
 
 ---
 
-### 📫 Onde me encontrar | Where to find me
+### 📫 Where to Find Me
 
 - GitHub: [github.com/kevin-allysson](https://github.com/kevin-allysson)
 - LinkedIn: [linkedin.com/in/kevinallysson](https://www.linkedin.com/in/kevinallysson/)
@@ -68,5 +53,5 @@ I've worked both as a team leader and collaborator in projects of various comple
 ---
 
 <p align="center">
-  Obrigado pela visita! 🚀 | Thanks for visiting! 🚀
+  Thanks for visiting! 🚀
 </p>
