@@ -47,7 +47,7 @@ I've worked both as a team leader and as a team member in projects ranging from 
 
 ### 📫 Where to Find Me
 
-- GitHub: [github.com/kevin-allysson](https://github.com/kevin-allysson)
+- GitHub: [github.com/kevin-allysson](https://github.com/KevinAllysson)
 - LinkedIn: [linkedin.com/in/kevinallysson](https://www.linkedin.com/in/kevinallysson/)
 
 ---
